@@ -2,7 +2,7 @@
 
 No acelerado mundo dos negócios de hoje, a mobilidade é a essência da produtividade. Gestores e profissionais estão constantemente em movimento, transitando entre reuniões, viagens e escritórios remotos. Neste contexto, o tempo para acessar um computador de mesa e gerenciar processos burocráticos tornou-se um luxo. O agendamento de serviços B2B, tradicionalmente realizado por e-mail, telefone ou agendas estáticas, não acompanha o ritmo de um ambiente profissional que exige flexibilidade e eficiência em tempo real.
 
-É para atender a esta demanda crítica que surge o Markaqui, um aplicativo móvel nativo desenhado para ser a ferramenta de agendamento definitiva para empresas prestadoras de serviço. O Markaqui leva a gestão completa do negócio para a palma da mão do gestor, do profissional e do cliente, transformando um processo fragmentado em uma experiência fluida, instantânea e altamente profissional. Nossa visão é empoderar empresas a operarem de forma mais ágil, garantindo que a oportunidade de negócio nunca se perca por falta de acessibilidade ou rapidez.
+É para atender a esta demanda crítica que surge o **Markaqui**, um aplicativo móvel nativo desenhado para ser a ferramenta de agendamento definitiva para empresas prestadoras de serviço. O Markaqui leva a gestão completa do negócio para a palma da mão do gestor, do profissional e do cliente, transformando um processo fragmentado em uma experiência fluida, instantânea e altamente profissional. Nossa visão é empoderar empresas a operarem de forma mais ágil, garantindo que a oportunidade de negócio nunca se perca por falta de acessibilidade ou rapidez.
 
 
 
