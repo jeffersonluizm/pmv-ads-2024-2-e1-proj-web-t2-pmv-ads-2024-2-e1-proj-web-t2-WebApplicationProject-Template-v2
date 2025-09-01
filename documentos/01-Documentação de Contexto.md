@@ -34,7 +34,6 @@ Para alcançar este propósito, os objetivos específicos são:
 **Reduzir as Perdas por "No-Show":** Implementar um sistema de lembretes e notificações push diretas no celular do cliente, com o objetivo de reduzir em pelo menos 15% o número de não comparecimentos.
 
  
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
